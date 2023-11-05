@@ -1,6 +1,6 @@
 # Binaries for programs and plugins
 main
-snkv
+vclk
 *.exe
 *.exe~
 *.so
